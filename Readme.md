@@ -17,6 +17,6 @@ ServiceStack.Redis从4.0版本开始收费使用，好在好的东西不存在�
 6. [事件](/files/事件.md)
 7. [发布/订阅 消息顺序](/files/发布订阅.md)
 8. [KEYS，SCAN，FLUSHDB 等命令在哪里？]
-9. [配置文件]
+9. [性能分析](/files/性能分析.md)
 10. [脚本](/files/脚本.md)
 
