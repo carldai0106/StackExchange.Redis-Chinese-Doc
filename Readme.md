@@ -1,4 +1,4 @@
-##StackExchange.Redis 文档翻译
+## StackExchange.Redis 文档翻译
 
 ServiceStack.Redis从4.0版本开始收费使用，好在好的东西不存在没有开源免费的；
 大名鼎鼎的Stack Overflow就提供了它的Redis客户端库：StackExchange.Redis免费给我们使用。
